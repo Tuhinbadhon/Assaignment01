@@ -435,11 +435,6 @@ body {
   height: 24px;
 }
 
-.footer hr {
-  height: 1px;
-  background: rgba(255, 255, 255, 0.15);
-}
-
 /* footer media */
 
 .footermedia {
